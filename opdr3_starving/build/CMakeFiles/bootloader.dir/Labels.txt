@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/CMakeFiles/bootloader
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/CMakeFiles/bootloader.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Davy/Desktop/opdr1_lifecycle/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
